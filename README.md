@@ -6,7 +6,7 @@ this config was originally made for arch linux.
 you can customize this as needed, add your startup/taskbar apps in "2. apps/util/env" (see index)  
 set custome colors in "1. init colors" and "7. color init"  
 
-- [table of content]
+- table of content
   * [intro](#intro)
   * [installation](#installation)
     + [1st step. (i3 + picom)](#1st-step--i3---picom-)
