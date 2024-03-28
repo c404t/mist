@@ -27,14 +27,14 @@ font awesome icons (copy/paste): https://fontawesome.com/v5/searc
 
 
 ## index of config
- index   
+ ```index   
  ├─ 1. theme/design  
- │          ├─ mod key   
- │          ├─ font  
- │          ├─ init colors  
- │          ├─ set colors  
- │          ├─ set gaps  
- │          └─ move apps to workspaces  
+ │     ├─ mod key   
+ │     ├─ font  
+ │     ├─ init colors  
+ │     ├─ set colors  
+ │     ├─ set gaps  
+ │     └─ move apps to workspaces  
  ├─ 2. apps/util/env  
  │     ├─ startup  
  │     └─ auto start   
@@ -52,3 +52,4 @@ font awesome icons (copy/paste): https://fontawesome.com/v5/searc
  └─ 7. bar  
        ├─ color init  
        └─ bar section  
+```
