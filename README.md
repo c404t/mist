@@ -4,6 +4,16 @@ this config was originally made for arch linux.
 you can customize this as needed, add your startup/taskbar apps in "2. apps/util/env" (see index)  
 set custome colors in "1. init colors" and "7. color init"  
 
+- [mist](#mist)
+  * [intro](#intro)
+  * [installation](#installation)
+    + [1st step. (i3 + picom)](#1st-step--i3---picom-)
+    + [2nd step. (basic apps + fonts)](#2nd-step--basic-apps---fonts-)
+    + [3rd step. (setup theme)](#3rd-step--setup-theme-)
+  * [what you might need](#what-you-might-need)
+  * [index of config](#index-of-config)
+
+
 ## installation
 make sure you have dependencies installed:
 skip those that you already have.
@@ -56,7 +66,7 @@ needed for arch-update module:
 ```
 sudo pacman -S pacman-contrib
 ```
-> if you dont want to use some of these apps, you need to remove it manually from i3 config after step 3.  
+> if you dont want to use some of these apps, you need to remove its start command manually from i3 config after step 3.  
 
 ### 3rd step. (setup theme)
 ```
@@ -67,7 +77,7 @@ sudo chmod +x install.sh
 ```
 once done, reload i3 using (Alt+Shift+R)  
 
-### what you might need  
+## what you might need  
 official user guide for better understanding: https://i3wm.org/docs/userguide.html  
 i3 complete costumization tour: https://itsfoss.com/i3-customization/  
 wallpapres: https://oceanofwallpapers.com/  
