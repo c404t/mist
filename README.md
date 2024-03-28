@@ -72,6 +72,12 @@ sudo pacman -S pacman-contrib
 
 ### 3rd step. (setup theme)
 ```
+git clone https://github.com/c404t/mist.git
+```
+```
+cd mist
+```
+```
 sudo chmod +x install.sh
 ```
 ```
