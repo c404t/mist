@@ -1,5 +1,5 @@
 # mist
-##intro  
+## intro  
 this config was originally made for arch linux.  
 you can customize this as needed, add your startup/taskbar apps in "2. apps/util/env" (see index)  
 set custome colors in "1. init colors" and "7. color init"  
@@ -25,14 +25,16 @@ wallpapres: https://oceanofwallpapers.com/
 color palettes: https://colorhunt.co/  
 font awesome icons (copy/paste): https://fontawesome.com/v5/searc  
 
- index of config  
+
+## index of config
+ index   
  ├─ 1. theme/design  
- │     ├─ mod key   
- │     ├─ font  
- │     ├─ init colors  
- │     ├─ set colors  
- │     ├─ set gaps  
- │     └─ move apps to workspaces  
+ │          ├─ mod key   
+ │          ├─ font  
+ │          ├─ init colors  
+ │          ├─ set colors  
+ │          ├─ set gaps  
+ │          └─ move apps to workspaces  
  ├─ 2. apps/util/env  
  │     ├─ startup  
  │     └─ auto start   
