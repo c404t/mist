@@ -84,7 +84,7 @@ sudo chmod +x install.sh
 ./install.sh
 ```
 once done, reload i3 using (Alt+Shift+R)  
-you may exit i3 and login again so that startup apps would also load. (Alt+Shift+E)  
+you may exit i3 and login again so that startup apps would also load (Alt+Shift+E)  
 
 ## what you might need  
 official user guide for better understanding: https://i3wm.org/docs/userguide.html  
