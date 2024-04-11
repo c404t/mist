@@ -1,5 +1,5 @@
 # mist
-![image](./screenshots/mountain)
+![image](./screenshots/demo.png)
 
 ## intro  
 this config was originally made for arch linux.  
