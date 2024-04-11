@@ -1,5 +1,7 @@
 # mist
 ![image](./screenshots/demo.png)
+![image](./screenshots/demo2.png)
+![image](./screenshots/demo3.png)
 
 ## intro  
 this config was originally made for arch linux.  
