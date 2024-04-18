@@ -1,4 +1,7 @@
 # mist
+| ![image](./screenshots/demo4.png) |
+| :---: |
+| latest version |
 ![image](./screenshots/demo.png)
 ![image](./screenshots/demo2.png)
 ![image](./screenshots/demo3.png)
